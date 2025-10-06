@@ -4,7 +4,7 @@ export default function Top(){
     let so = '>'
     let siso = si + su + so
     let dai = ' Recents'
-    return <div className=' ml-60 bg-[var(--foreground)] fixed w-180'><div className='block'><div className="   border-b-1 font-light text-[13.5px] border-gray-300 pl-10 flex h-13 items-center "><div className='flex gap-4'><span>{si}</span> <span>{so}</span> <span>{dai}</span> </div> <div className="flex-1 "></div><div className="mr-10 bg-blue-400 rounded-sm  text-white "><button className='flex w-30  justify-center gap-5 h-8 items-center'><span>+</span><span>Create</span><svg width="18" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    return <div className=' ml-66 bg-[var(--foreground)] fixed w-173'><div className='block'><div className="   border-b-1 font-light text-[13.5px] border-gray-300 pl-10 flex h-13 items-center "><div className='flex gap-4'><span>{si}</span> <span>{so}</span> <span>{dai}</span> </div> <div className="flex-1 "></div><div className="mr-10 bg-blue-400 rounded-sm  text-white "><button className='flex w-30  justify-center gap-5 h-8 items-center'><span>+</span><span>Create</span><svg width="18" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
  <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
  </svg></button></div> </div>
     

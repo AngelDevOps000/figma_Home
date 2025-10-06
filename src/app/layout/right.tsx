@@ -1,7 +1,7 @@
 export default function Right(){
-    return <div className=' ml-69'>
+    return <div className=' ml-75'>
         
-        <div className=" mt-30 overflow-y-auto grid grid-cols-2  gap-5  "> 
+        <div className=" mt-30 overflow-y-auto grid grid-cols-2  gap-y-8  "> 
 
         <div className='w-73'>
         <img className='rounded-t-2xl'src='/wet.jpg'>
